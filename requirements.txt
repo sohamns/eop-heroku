@@ -54,4 +54,3 @@ Werkzeug==1.0.1
 wwo-hist==0.0.7
 xgboost==1.4.2
 joblib==1.0.1
-MarkupSafe==1.0
