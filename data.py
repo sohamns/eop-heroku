@@ -30,7 +30,7 @@ class GET_DATA:
         end_date = end_date.strftime('%Y-%m-%d')
 
         frequency = 24
-        api_key = '092a2ffeb04645c5ba855736210909' 
+        api_key = '7dd564af8fb1428db2061923221204' 
 
         location_list = [location_name]
         hist_weather_data = retrieve_hist_data(api_key,
